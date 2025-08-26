@@ -1,8 +1,12 @@
 ---
-layout: page
+layout: post
 title: Privacy Policy
-include_in_header: true
+date: 2025-08-26 00:00:00 +0300
+description: Our privacy policy ensures your data is handled securely and responsibly.
+tags: [Privacy, Policy]
+img: privacy-policy-image.png
 ---
+
 
 # Privacy Policy for TremorCode Applications
 
