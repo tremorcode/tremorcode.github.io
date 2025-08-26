@@ -2,7 +2,7 @@ title:              TremorCode
 email:              tc_contact@yahoo.com
 description:        Welcome to our website!
 author:             TremorCode
-baseurl:            "index"
+baseurl:            ""
 url:                "https://tremorcode.github.io"
 
 # Social Profiles
